@@ -1,7 +1,7 @@
 # Fuel-Consumption-and-Efficiency-ML
 Machine Learning Project on Fuel Consumption Prediction of 70s and 80s vehicles.
 
-# Predicting Fuel Efficiency of Vehicles
+Predicting Fuel Efficiency of Vehicles
 In this series, we'd be going from data collection to deploying the Machine Learning model:
 
 Data Collection - we are using the classic Auto MPG dataset from UCI ML Repository.
